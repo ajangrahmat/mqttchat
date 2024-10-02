@@ -13,3 +13,37 @@ Sebelum menjalankan aplikasi, Anda perlu menginstal beberapa library. Jalankan p
 ```bash
 pip install paho-mqtt==1.6.1
 pip install colorama==0.4.6
+
+## Cara Menjalankan Aplikasi
+
+1. Pastikan Anda telah menginstal Python dan pip di sistem Anda.
+2. Buat file baru dengan nama `main.py` dan salin kode aplikasi ke dalamnya.
+3. Jalankan aplikasi dengan perintah berikut:
+
+   ```bash
+   python main.py
+   ```
+
+4. Masukkan nama Anda saat diminta, lalu mulai berkomunikasi!
+
+## Struktur Proyek
+
+Berikut adalah struktur direktori untuk proyek ini:
+
+```
+mqttchat/
+├── README.md
+├── main.py
+└── requirements.txt
+```
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada proyek ini, silakan buat *pull request* atau buka *issue* untuk diskusi lebih lanjut.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+```
+
+Anda dapat menyimpan konten di atas ke dalam file `README.md`. Ini akan memberikan informasi yang jelas dan terstruktur tentang aplikasi Anda, cara menjalankannya, dan bagaimana orang lain dapat berkontribusi.
