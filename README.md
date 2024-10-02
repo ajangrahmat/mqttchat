@@ -1,8 +1,12 @@
+Tentu! Berikut adalah perbaikan dan penyempurnaan untuk teks yang Anda berikan:
+
+---
+
 # MQTT Chat
 
-MQTT Chat adalah sebuah aplikasi berbasis protokol MQTT (Message Queuing Telemetry Transport) yang memungkinkan pengguna untuk berkomunikasi secara real-time melalui pesan teks.
+MQTT Chat adalah aplikasi berbasis protokol MQTT (Message Queuing Telemetry Transport) yang memungkinkan pengguna untuk berkomunikasi secara real-time melalui pesan teks.
 
-## Berhasil RUN di Python Versi
+## Berhasil Dijalankan di Python Versi
 
 Aplikasi ini berhasil dijalankan di Python versi **3.11.3**.
 
@@ -13,6 +17,7 @@ Sebelum menjalankan aplikasi, Anda perlu menginstal beberapa library. Jalankan p
 ```bash
 pip install paho-mqtt==1.6.1
 pip install colorama==0.4.6
+```
 
 ## Cara Menjalankan Aplikasi
 
@@ -44,6 +49,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat *pull request* atau 
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-```
-
-Anda dapat menyimpan konten di atas ke dalam file `README.md`. Ini akan memberikan informasi yang jelas dan terstruktur tentang aplikasi Anda, cara menjalankannya, dan bagaimana orang lain dapat berkontribusi.
