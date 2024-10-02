@@ -1,7 +1,3 @@
-Tentu! Berikut adalah perbaikan dan penyempurnaan untuk teks yang Anda berikan:
-
----
-
 # MQTT Chat
 
 MQTT Chat adalah aplikasi berbasis protokol MQTT (Message Queuing Telemetry Transport) yang memungkinkan pengguna untuk berkomunikasi secara real-time melalui pesan teks.
